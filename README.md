@@ -1,2 +1,2 @@
-# 5-Logistic_Grid_RandomSearchCV_Heart_Disease_Prediction
+# 5-Logistic_Grid_Rand_SearchCV_Heart_Disease_Pred
 Heart Disease Prediction
